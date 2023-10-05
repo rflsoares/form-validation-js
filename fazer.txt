@@ -1,0 +1,6 @@
+CSS:
+-Aumentar fonte do label
+-Colocar uma imagem de fundo em toda página
+-Personalizar o buttom
+JS:
+-Pegar os valores dos campos imput e mostrar nos spam com JS
